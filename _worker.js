@@ -2220,7 +2220,6 @@ async function KV(request, env, txt = 'ADD.txt') {
                     </div>
                     <br>
                     ################################################################<br>
-                    ${cmad}
                     ` : '<p>未绑定KV空间</p>'}
                 </div>
         
